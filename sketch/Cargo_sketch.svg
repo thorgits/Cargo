@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="747px" preserveAspectRatio="none" style="width:872px;height:747px;" version="1.1" viewBox="0 0 872 747" width="872px" zoomAndPan="magnify"><defs/><g><!--MD5=[7a5e562ee04075faf9c6fb7c20f6b1e0]
+cluster Cargo--><rect fill="#8B9BAC" height="712" rx="50" ry="50" style="stroke: #000000; stroke-width: 1.5;" width="839" x="22" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="42" x="420.5" y="39.5352">Cargo</text><!--MD5=[4aa2fb3d0127925f0acb1689b7cefd8d]
+class LocationShared--><rect fill="#861F1B" height="42.9766" id="LocationShared" style="stroke: #64B5F6; stroke-width: 1.5;" width="138" x="464" y="574"/><rect fill="#861F1B" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="138" x="464" y="574"/><ellipse cx="479" cy="595.4883" fill="#148610" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M479.1133,600.4463 L481.2964,590.0952 L483.7617,590.0952 L480.8149,602.4883 L477.4199,602.4883 L474.4731,590.0952 L476.9385,590.0952 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="96" x="498" y="592.5352">«ValueObject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="493" y="609.0234">LocationShared</text><!--MD5=[a0c6f7f38269b627e86088ddf7fa59a9]
+class CargoRepository--><rect fill="#FFFFFF" height="42.9766" id="CargoRepository" style="stroke: #64B5F6; stroke-width: 1.5;" width="147" x="458.5" y="59"/><rect fill="#FFFFFF" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="147" x="458.5" y="59"/><ellipse cx="473.5" cy="80.4883" fill="#E2B8B8" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M474.1987,81.1362 Q474.564,81.2109 474.8337,81.4807 Q475.1035,81.7505 475.4937,82.5308 L477.7349,86.9883 L475.0454,86.9883 L473.5513,83.8589 Q473.4849,83.7261 473.377,83.4937 Q472.7212,82.0908 471.833,82.0908 L471.0527,82.0908 L471.0527,86.9883 L468.604,86.9883 L468.604,74.5952 L472.1401,74.5952 Q474.5308,74.5952 475.5725,75.4419 Q476.6143,76.2886 476.6143,78.1978 Q476.6143,79.4761 475.9917,80.2314 Q475.3691,80.9868 474.1987,81.1362 Z M471.0527,76.6538 L471.0527,80.0322 L472.2065,80.0322 Q473.2109,80.0322 473.6467,79.6379 Q474.0825,79.2437 474.0825,78.3389 Q474.0825,77.4341 473.6509,77.0439 Q473.2192,76.6538 472.2065,76.6538 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="501.5" y="77.5352">«Repository»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="115" x="487.5" y="94.0234">CargoRepository</text><!--MD5=[7abcb1c16c01fed8935f67d7d9b66a59]
+class LocationService--><rect fill="#544E15" height="42.9766" id="LocationService" style="stroke: #64B5F6; stroke-width: 1.5;" width="143" x="686.5" y="368"/><rect fill="#544E15" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="143" x="686.5" y="368"/><ellipse cx="701.5" cy="389.4883" fill="#AF1603" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M700.5859,385.8032 L700.5859,393.7803 L701.25,393.7803 Q702.6943,393.7803 703.3086,392.8713 Q703.9229,391.9624 703.9229,389.7793 Q703.9229,387.6128 703.3086,386.708 Q702.6943,385.8032 701.25,385.8032 Z M698.1372,383.5952 L700.7603,383.5952 Q703.7983,383.5952 705.1348,385.0437 Q706.4712,386.4922 706.4712,389.7793 Q706.4712,393.0747 705.1348,394.5315 Q703.7983,395.9883 700.7603,395.9883 L698.1372,395.9883 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="713.5" y="386.5352">«DomainService»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="106" x="718" y="403.0234">LocationService</text><!--MD5=[aa7ddc4734169f0fc02523c1a5b1ad37]
+class CustomerShared--><rect fill="#861F1B" height="42.9766" id="CustomerShared" style="stroke: #64B5F6; stroke-width: 1.5;" width="147" x="245.5" y="265"/><rect fill="#861F1B" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="147" x="245.5" y="265"/><ellipse cx="260.5" cy="286.4883" fill="#148610" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M260.6133,291.4463 L262.7964,281.0952 L265.2617,281.0952 L262.3149,293.4883 L258.9199,293.4883 L255.9731,281.0952 L258.4385,281.0952 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="96" x="284" y="283.5352">«ValueObject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="115" x="274.5" y="300.0234">CustomerShared</text><!--MD5=[c6768013e5a23f7dc2f9324b8d3829c8]
+class HandlingEvent--><rect fill="#8ED4D1" height="42.9766" id="HandlingEvent" style="stroke: #64B5F6; stroke-width: 1.5;" width="131" x="467.5" y="368"/><rect fill="#8ED4D1" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="131" x="467.5" y="368"/><ellipse cx="482.5" cy="389.4883" fill="#FF7700" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M486.1143,395.9883 L478.3945,395.9883 L478.3945,383.5952 L486.1143,383.5952 L486.1143,385.7534 L480.8433,385.7534 L480.8433,388.4263 L485.6162,388.4263 L485.6162,390.5845 L480.8433,390.5845 L480.8433,393.8301 L486.1143,393.8301 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="520" y="386.5352">«Entity»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="99" x="496.5" y="403.0234">HandlingEvent</text><!--MD5=[aefb0a6a3ee8f2ec18d3caa6abe7f38c]
+class CarrierMovement--><rect fill="#8ED4D1" height="42.9766" id="CarrierMovement" style="stroke: #64B5F6; stroke-width: 1.5;" width="151" x="457.5" y="471"/><rect fill="#8ED4D1" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="151" x="457.5" y="471"/><ellipse cx="472.5" cy="492.4883" fill="#FF7700" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M476.1143,498.9883 L468.3945,498.9883 L468.3945,486.5952 L476.1143,486.5952 L476.1143,488.7534 L470.8433,488.7534 L470.8433,491.4263 L475.6162,491.4263 L475.6162,493.5845 L470.8433,493.5845 L470.8433,496.8301 L476.1143,496.8301 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="520" y="489.5352">«Entity»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="119" x="486.5" y="506.0234">CarrierMovement</text><!--MD5=[e69d6994dde37a3d0167e5476c791457]
+class CustomerRepository--><rect fill="#FFFFFF" height="42.9766" id="CustomerRepository" style="stroke: #64B5F6; stroke-width: 1.5;" width="172" x="38" y="265"/><rect fill="#FFFFFF" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="172" x="38" y="265"/><ellipse cx="53" cy="286.4883" fill="#E2B8B8" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M53.6987,287.1362 Q54.064,287.2109 54.3337,287.4807 Q54.6035,287.7505 54.9937,288.5308 L57.2349,292.9883 L54.5454,292.9883 L53.0513,289.8589 Q52.9849,289.7261 52.877,289.4937 Q52.2212,288.0908 51.333,288.0908 L50.5527,288.0908 L50.5527,292.9883 L48.104,292.9883 L48.104,280.5952 L51.6401,280.5952 Q54.0308,280.5952 55.0725,281.4419 Q56.1143,282.2886 56.1143,284.1978 Q56.1143,285.4761 55.4917,286.2314 Q54.8691,286.9868 53.6987,287.1362 Z M50.5527,282.6538 L50.5527,286.0322 L51.7065,286.0322 Q52.7109,286.0322 53.1467,285.6379 Q53.5825,285.2437 53.5825,284.3389 Q53.5825,283.4341 53.1509,283.0439 Q52.7192,282.6538 51.7065,282.6538 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="93.5" y="283.5352">«Repository»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="140" x="67" y="300.0234">CustomerRepository</text><!--MD5=[83e4a5fd29336e31e73cde5b94c18dd8]
+class DeliveryHistory--><rect fill="#8ED4D1" height="42.9766" id="DeliveryHistory" style="stroke: #64B5F6; stroke-width: 1.5;" width="134" x="465" y="265"/><rect fill="#8ED4D1" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="134" x="465" y="265"/><ellipse cx="480" cy="286.4883" fill="#FF7700" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M483.6143,292.9883 L475.8945,292.9883 L475.8945,280.5952 L483.6143,280.5952 L483.6143,282.7534 L478.3433,282.7534 L478.3433,285.4263 L483.1162,285.4263 L483.1162,287.5845 L478.3433,287.5845 L478.3433,290.8301 L483.6143,290.8301 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="519" y="283.5352">«Entity»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="102" x="494" y="300.0234">DeliveryHistory</text><!--MD5=[bc6b894e3d18da8d9f25806dc8286ece]
+class Cargo--><rect fill="#D1A349" height="42.9766" id="Cargo" style="stroke: #64B5F6; stroke-width: 1.5;" width="146" x="459" y="162"/><rect fill="#D1A349" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="146" x="459" y="162"/><ellipse cx="474" cy="183.4883" fill="#5C95D1" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M474.6987,184.1362 Q475.064,184.2109 475.3337,184.4807 Q475.6035,184.7505 475.9937,185.5308 L478.2349,189.9883 L475.5454,189.9883 L474.0513,186.8589 Q473.9849,186.7261 473.877,186.4937 Q473.2212,185.0908 472.333,185.0908 L471.5527,185.0908 L471.5527,189.9883 L469.104,189.9883 L469.104,177.5952 L472.6401,177.5952 Q475.0308,177.5952 476.0725,178.4419 Q477.1143,179.2886 477.1143,181.1978 Q477.1143,182.4761 476.4917,183.2314 Q475.8691,183.9868 474.6987,184.1362 Z M471.5527,179.6538 L471.5527,183.0322 L472.7065,183.0322 Q473.7109,183.0322 474.1467,182.6379 Q474.5825,182.2437 474.5825,181.3389 Q474.5825,180.4341 474.1509,180.0439 Q473.7192,179.6538 472.7065,179.6538 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="486" y="180.5352">«AggregateRoot»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="42" x="524" y="197.0234">Cargo</text><!--MD5=[4f1f3706c1a355a8488e154afcaed5df]
+class Location--><rect fill="#861F1B" height="42.9766" id="Location" style="stroke: #64B5F6; stroke-width: 1.5;" width="124" x="365" y="677"/><rect fill="#861F1B" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="124" x="365" y="677"/><ellipse cx="380" cy="698.4883" fill="#148610" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M380.1133,703.4463 L382.2964,693.0952 L384.7617,693.0952 L381.8149,705.4883 L378.4199,705.4883 L375.4731,693.0952 L377.9385,693.0952 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="96" x="392" y="695.5352">«ValueObject»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="58" x="411" y="712.0234">Location</text><!--MD5=[2ce0c9fb7f55b1e256ab28a8ea6b25ec]
+class Customer--><rect fill="#8ED4D1" height="42.9766" id="Customer" style="stroke: #64B5F6; stroke-width: 1.5;" width="99" x="294.5" y="368"/><rect fill="#8ED4D1" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="99" x="294.5" y="368"/><ellipse cx="309.5" cy="389.4883" fill="#FF7700" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M313.1143,395.9883 L305.3945,395.9883 L305.3945,383.5952 L313.1143,383.5952 L313.1143,385.7534 L307.8433,385.7534 L307.8433,388.4263 L312.6162,388.4263 L312.6162,390.5845 L307.8433,390.5845 L307.8433,393.8301 L313.1143,393.8301 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="331" y="386.5352">«Entity»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="67" x="323.5" y="403.0234">Customer</text><!--MD5=[f5c6ca0ca72c118dd292e1c260f41257]
+class DeliverySpecification--><rect fill="#2FD92A" height="42.9766" id="DeliverySpecification" style="stroke: #64B5F6; stroke-width: 1.5;" width="173" x="671.5" y="265"/><rect fill="#2FD92A" height="42.9766" style="stroke: #64B5F6; stroke-width: 1.5;" width="173" x="671.5" y="265"/><ellipse cx="686.5" cy="286.4883" fill="#C49AC3" rx="11" ry="11" style="stroke: #64B5F6; stroke-width: 1.0;"/><path d="M685.7334,287.5513 Q683.8823,286.8457 683.2266,286.0696 Q682.5708,285.2935 682.5708,283.9819 Q682.5708,282.2969 683.6499,281.334 Q684.729,280.3711 686.6133,280.3711 Q687.4683,280.3711 688.3232,280.5662 Q689.1782,280.7612 690.0166,281.1431 L690.0166,283.5337 Q689.228,282.9775 688.4146,282.687 Q687.6011,282.3965 686.8042,282.3965 Q685.916,282.3965 685.4429,282.7534 Q684.9697,283.1104 684.9697,283.7744 Q684.9697,284.2891 685.3142,284.6252 Q685.6587,284.9614 686.7544,285.3682 L687.8086,285.7666 Q689.3027,286.3145 690.0083,287.2192 Q690.7139,288.124 690.7139,289.502 Q690.7139,291.3779 689.6057,292.3035 Q688.4976,293.229 686.2563,293.229 Q685.335,293.229 684.4094,293.009 Q683.4839,292.7891 682.6206,292.3574 L682.6206,289.8257 Q683.6001,290.5229 684.5173,290.8633 Q685.4346,291.2036 686.3311,291.2036 Q687.2358,291.2036 687.7339,290.7927 Q688.2319,290.3818 688.2319,289.6431 Q688.2319,289.0869 687.8999,288.6677 Q687.5679,288.2485 686.937,288.0078 Z "/><text fill="#589DF6" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="101" x="720.5" y="283.5352">«Specification»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="700.5" y="300.0234">DeliverySpecification</text><!--MD5=[3ae97d11c2ca570632e7e7ed3510da9a]
+link CustomerRepository to Customer--><path d="M124,308.2 C124,338.55 124,390 124,390 C124,390 289.35,390 289.35,390 " fill="none" id="CustomerRepository-&gt;Customer" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="294.35,390,285.35,386,289.35,390,285.35,394,294.35,390" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[a39b498fa16ded4c82f5295dc0f3e048]
+link HandlingEvent to Cargo--><path d="M467.34,397 C450.07,397 436.17,397 436.17,397 C436.17,397 436.17,195 436.17,195 C436.17,195 453.88,195 453.88,195 " fill="none" id="HandlingEvent-&gt;Cargo" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="458.88,195,449.88,191,453.88,195,449.88,199,458.88,195" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[ef5291805c71f2f22d7871b7766593b1]
+link HandlingEvent to CarrierMovement--><path d="M533,411.34 C533,411.34 533,465.69 533,465.69 " fill="none" id="HandlingEvent-&gt;CarrierMovement" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="533,470.69,537,461.69,533,465.69,529,461.69,533,470.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[0391fae3e576cee53b505e7e1dd21e76]
+link LocationShared to Location--><path d="M476.5,617.34 C476.5,617.34 476.5,671.69 476.5,671.69 " fill="none" id="LocationShared-&gt;Location" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="476.5,676.69,480.5,667.69,476.5,671.69,472.5,667.69,476.5,676.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[f2f9d04c4ea4420a45f6c12f6d2877ee]
+link DeliveryHistory to HandlingEvent--><path d="M533,308.34 C533,308.34 533,362.69 533,362.69 " fill="none" id="DeliveryHistory-&gt;HandlingEvent" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="533,367.69,537,358.69,533,362.69,529,358.69,533,367.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[6411642a52d6ac8018ef4c4bc45e4ac4]
+link CustomerShared to Customer--><path d="M343.5,308.34 C343.5,308.34 343.5,362.69 343.5,362.69 " fill="none" id="CustomerShared-&gt;Customer" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="343.5,367.69,347.5,358.69,343.5,362.69,339.5,358.69,343.5,367.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[81fb72c127dc5e2f16b12c3e56cadc9c]
+link CarrierMovement to LocationShared--><path d="M533,514.34 C533,514.34 533,568.69 533,568.69 " fill="none" id="CarrierMovement-&gt;LocationShared" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="533,573.69,537,564.69,533,568.69,529,564.69,533,573.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[77dd96ab98fb9c5ebc078714e960f6dd]
+link Customer to Location--><path d="M379.25,411.23 C379.25,411.23 379.25,671.8 379.25,671.8 " fill="none" id="Customer-&gt;Location" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="379.25,676.8,383.25,667.8,379.25,671.8,375.25,667.8,379.25,676.8" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[017bc5dfaa6156cc0ff55bf571e43429]
+link DeliverySpecification to LocationService--><path d="M758,308.34 C758,308.34 758,362.69 758,362.69 " fill="none" id="DeliverySpecification-&gt;LocationService" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="758,367.69,762,358.69,758,362.69,754,358.69,758,367.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[1a8b8e3ff85b872009795935d0de9c97]
+link DeliverySpecification to LocationShared--><path d="M679,308.26 C679,378.71 679,596 679,596 C679,596 607.15,596 607.15,596 " fill="none" id="DeliverySpecification-&gt;LocationShared" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="602.15,596,611.15,600,607.15,596,611.15,592,602.15,596" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[5420770d06dd790e7608761117073015]
+link Cargo to DeliveryHistory--><path d="M532,205.34 C532,205.34 532,259.69 532,259.69 " fill="none" id="Cargo-&gt;DeliveryHistory" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="532,264.69,536,255.69,532,259.69,528,255.69,532,264.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[e9ba49be65d8c83437fdc92a8809bf21]
+link Cargo to CustomerShared--><path d="M459,173 C397.34,173 319,173 319,173 C319,173 319,259.88 319,259.88 " fill="none" id="Cargo-&gt;CustomerShared" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="319,264.88,323,255.88,319,259.88,315,255.88,319,264.88" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[0ad373cb74d8f0eb167ef7183381caf3]
+link Cargo to DeliverySpecification--><path d="M605.06,184 C671.09,184 758,184 758,184 C758,184 758,259.76 758,259.76 " fill="none" id="Cargo-&gt;DeliverySpecification" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="758,264.76,762,255.76,758,259.76,754,255.76,758,264.76" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[aa37e9d96017f9416206e188a2489aa7]
+link Cargo to Customer--><path d="M458.8,184 C435.11,184 414.83,184 414.83,184 C414.83,184 414.83,383 414.83,383 C414.83,383 398.58,383 398.58,383 " fill="none" id="Cargo-&gt;Customer" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="393.58,383,402.58,387,398.58,383,402.58,379,393.58,383" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[3512b11083ef302ffd95a26b45377707]
+link CargoRepository to Cargo--><path d="M532,102.34 C532,102.34 532,156.69 532,156.69 " fill="none" id="CargoRepository-&gt;Cargo" style="stroke: #008080; stroke-width: 1.0;"/><polygon fill="#008080" points="532,161.69,536,152.69,532,156.69,528,152.69,532,161.69" style="stroke: #008080; stroke-width: 1.0;"/><!--MD5=[6b9d85cb9ed08956242ef82a90c4d92d]
+@startuml
+skinparam linetype ortho
+skinparam Shadowing false
+skinparam wrapWidth 200
+
+skinparam Class {
+    ClassBorderThickness 1
+    ArrowColor  Teal
+    BorderColor #64B5F6
+    FontSize 14
+    AttributeFontSize 14
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 14
+}
+skinparam linetype ortho
+skinparam rectangle {
+ roundCorner 100
+}
+package Cargo <<Rectangle>> #8B9BAC{
+class LocationShared <<(V,#148610) ValueObject>> #861F1B {}
+hide LocationShared members
+
+class CargoRepository <<(R,#e2b8b8)Repository>> #FFFFFF {}
+hide CargoRepository members
+
+class LocationService <<(D,#AF1603) DomainService>> #544E15 {}
+hide LocationService members
+
+class CustomerShared <<(V,#148610) ValueObject>> #861F1B {}
+hide CustomerShared members
+
+class HandlingEvent <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide HandlingEvent members
+
+class CarrierMovement <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide CarrierMovement members
+
+class CustomerRepository <<(R,#e2b8b8)Repository>> #FFFFFF {}
+hide CustomerRepository members
+
+class DeliveryHistory <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide DeliveryHistory members
+
+class Cargo <<(R,#5C95D1) AggregateRoot>> #D1A349 {}
+hide Cargo members
+
+class Location <<(V,#148610) ValueObject>> #861F1B {}
+hide Location members
+
+class Customer <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide Customer members
+
+class DeliverySpecification <<(S,#C49AC3) Specification>> #2FD92A{}
+hide DeliverySpecification members
+
+}
+CustomerRepository - -> Customer
+
+HandlingEvent - -> Cargo
+HandlingEvent - -> CarrierMovement
+
+LocationShared - -> Location
+
+DeliveryHistory - -> HandlingEvent
+
+CustomerShared - -> Customer
+
+CarrierMovement - -> LocationShared
+
+Customer - -> Location
+
+DeliverySpecification - -> LocationService
+DeliverySpecification - -> LocationShared
+
+Cargo - -> DeliveryHistory
+Cargo - -> CustomerShared
+Cargo - -> DeliverySpecification
+Cargo - -> Customer
+
+CargoRepository - -> Cargo
+
+
+@enduml
+
+PlantUML version 1.2020.01(Mon Feb 17 01:40:32 CST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.2+9
+Operating System: Mac OS X
+Default Encoding: UTF-8
+Language: zh
+Country: CN
+--></g></svg>

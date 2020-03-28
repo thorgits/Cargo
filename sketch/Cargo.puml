@@ -1,0 +1,85 @@
+@startuml
+skinparam linetype ortho
+skinparam Shadowing false
+skinparam wrapWidth 200
+
+skinparam Class {
+    ClassBorderThickness 1
+    ArrowColor  Teal
+    BorderColor #64B5F6
+    FontSize 14
+    AttributeFontSize 14
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 14
+}
+skinparam linetype ortho
+skinparam rectangle {
+ roundCorner 100
+}
+'!@Sketch
+package Cargo <<Rectangle>> #8B9BAC{
+class LocationShared <<(V,#148610) ValueObject>> #861F1B {}
+hide LocationShared members
+
+class CargoRepository <<(R,#e2b8b8)Repository>> #FFFFFF {}
+hide CargoRepository members
+
+class LocationService <<(D,#AF1603) DomainService>> #544E15 {}
+hide LocationService members
+
+class CustomerShared <<(V,#148610) ValueObject>> #861F1B {}
+hide CustomerShared members
+
+class HandlingEvent <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide HandlingEvent members
+
+class CarrierMovement <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide CarrierMovement members
+
+class CustomerRepository <<(R,#e2b8b8)Repository>> #FFFFFF {}
+hide CustomerRepository members
+
+class DeliveryHistory <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide DeliveryHistory members
+
+class Cargo <<(R,#5C95D1) AggregateRoot>> #D1A349 {}
+hide Cargo members
+
+class Location <<(V,#148610) ValueObject>> #861F1B {}
+hide Location members
+
+class Customer <<(E,#FF7700)Entity>> #8ED4D1 {}
+hide Customer members
+
+class DeliverySpecification <<(S,#C49AC3) Specification>> #2FD92A{}
+hide DeliverySpecification members
+
+}
+'!@Relation
+CustomerRepository --> Customer
+
+HandlingEvent --> Cargo
+HandlingEvent --> CarrierMovement
+
+LocationShared --> Location
+
+DeliveryHistory --> HandlingEvent
+
+CustomerShared --> Customer
+
+CarrierMovement --> LocationShared
+
+Customer --> Location
+
+DeliverySpecification --> LocationService
+DeliverySpecification --> LocationShared
+
+Cargo --> DeliveryHistory
+Cargo --> CustomerShared
+Cargo --> DeliverySpecification
+Cargo --> Customer
+
+CargoRepository --> Cargo
+
+
+@enduml

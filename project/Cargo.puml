@@ -1,0 +1,103 @@
+@startuml
+skinparam linetype ortho
+skinparam Shadowing false
+skinparam package {
+backgroundColor #E3F2FD
+}
+skinparam Class {
+    ClassBorderThickness 1
+    ArrowColor Gray
+    ActorBorderColor Gray
+    BackgroundColor #E3F2FD
+    BorderColor #64B5F6
+    FontSize 14
+    AttributeFontSize 14
+    StereotypeFontColor #589DF6
+    StereotypeFontSize 14
+}
+left to right direction
+'!@Item
+ class casestudy.cargo.DeliveryHistory<<Entity>> { 
+String id
+HandlingEvent[] events
+}
+ class casestudy.location.LocationService<<DomainService>> { 
++ abstract void resolveByPortCode(String portCode)
+}
+ class casestudy.location.Location<<ValueObject>> { 
+String portCode
+}
+ class casestudy.cargo.HandlingEvent<<Entity>> { 
+- Date completeTime
+- String type
++ CarrierMovement carrierMovement
+- Cargo[] cargo
+}
+ class casestudy.customer.Customer<<Entity>> { 
++ String name
++ String customerID
++ void getName(Location location)
+}
+ class casestudy.cargo.CargoRepository<<Repository>> { 
++ Cargo findByTackingID(String id) 
++ Cargo findByCustomerID(String id) 
+}
+ class casestudy.shared.LocationShared<<ValueObject>> { 
+String portCode
+Location location
+}
+ class casestudy.cargo.Cargo<<AggregateRoot, Entity>> { 
+-  String trackingID
+- Customer[] customers
++ DeliveryHistory deliveryHistory
+- DeliverySpecification deliverySpecification
+CustomerShared customerShared
++  static void ss()
+}
+ class casestudy.cargo.DeliverySpecification<<Specification>> { 
++  Date arrivalTime
+@Comment(note = "destination")
+    LocationShared locationShared
+LocationService locationService
++  boolean verify(LocationShared  locationShared)
+}
+ class casestudy.shared.CustomerShared<<ValueObject>> { 
+Customer ID
+}
+ class casestudy.cargo.CarrierMovement<<Entity>> { 
+- long scheduleID
++ LocationShared to
++ LocationShared from
+}
+ interface casestudy.customer.CustomerRepository<<Repository>> { 
+Customer findByName(String name)
+Customer findByCustomerID(String ID)
+}
+'!@Relation
+casestudy.cargo.DeliverySpecification --> casestudy.location.LocationService
+casestudy.cargo.DeliverySpecification --> casestudy.shared.LocationShared
+
+casestudy.shared.CustomerShared --> casestudy.customer.Customer
+
+casestudy.cargo.DeliveryHistory --> casestudy.cargo.HandlingEvent
+
+casestudy.customer.Customer --> casestudy.location.Location
+
+casestudy.cargo.HandlingEvent --> casestudy.cargo.Cargo
+casestudy.cargo.HandlingEvent --> casestudy.cargo.CarrierMovement
+
+casestudy.cargo.CarrierMovement --> casestudy.shared.LocationShared
+
+casestudy.cargo.Cargo --> casestudy.cargo.DeliveryHistory
+casestudy.cargo.Cargo --> casestudy.shared.CustomerShared
+casestudy.cargo.Cargo --> casestudy.cargo.DeliverySpecification
+casestudy.cargo.Cargo --> casestudy.customer.Customer
+
+casestudy.shared.LocationShared --> casestudy.location.Location
+
+casestudy.cargo.CargoRepository --> casestudy.cargo.Cargo
+
+casestudy.customer.CustomerRepository --> casestudy.customer.Customer
+
+
+@enduml
